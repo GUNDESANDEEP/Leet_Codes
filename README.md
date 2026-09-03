@@ -10,4 +10,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/GUNDESANDEEP/Leet_Codes/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/GUNDESANDEEP/Leet_Codes/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/GUNDESANDEEP/Leet_Codes/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/GUNDESANDEEP/Leet_Codes/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
